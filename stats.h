@@ -1,7 +1,7 @@
 #include <vector>
 
 namespace Statistics {
-    // define the Stats structure here. See the tests to infer its properties
+    // define the Stats structure here , with average , maximum and minimum as its data members
     struct Stats {
         float average;
         float maximum;
